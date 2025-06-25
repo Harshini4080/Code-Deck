@@ -42,7 +42,7 @@
 ## Setup.env file
 
     
-    REACT_APP_RAPID_API_KEY=your_rapidapi_key
+    REACT_APP_RAPID_API_KEY = your_rapidapi_key
 
 ---
 
