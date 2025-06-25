@@ -9,7 +9,7 @@
 -  Input/Output console
 -  Save, Import, Export code
 -  Fullscreen editor mode
--  Run code using [Judge0 CE API](https://judge0.com/)
+-  Use [Rapid API](https://rapidapi.com/) to setup Hudge0 API
 
 ---
 
@@ -40,7 +40,7 @@
 ---
 
 ## Setup.env file
-``bash
+
     
     REACT_APP_RAPID_API_KEY=your_rapidapi_key
 
